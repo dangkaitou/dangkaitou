@@ -1,7 +1,7 @@
 Hi 👋 My name is Nguyễn Hải Đăng
 ================================
 
-Software Engineer & Data Engineer
+Data Engineer
 ---------------------------------
 
 * 🌍  I'm based in Ho Chi Minh City, Vietnam
